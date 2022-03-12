@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am a competitive programming lover
+- Famliar with C++, Python
 
 [![louisfghbvc's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisfghbvc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisfghbvc)](https://github.com/anuraghazra/github-readme-stats)

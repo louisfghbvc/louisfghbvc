@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - I am a competitive programming lover
-- Famliar with C++, Python
+- Love AI (LLM, RL), and cool bots, tools, hack, games design
+- Love modern C++ design and algorithms.
+- Love to do intetesting things in programming.
 - Bot and Hack is awesome !!! [my funning list](https://github.com/stars/louisfghbvc/lists/fun-project)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/louisfghbvc?ext=contest)

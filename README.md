@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a competitive programming lover
+- I am doing interesting sideprojects to enhance daily work & building AI agents
 - Love AI (LLM, RL), and cool bots, robots, tools, hack, games design
-- Love modern C++ design and algorithms.
-- Love to do intetesting things in programming.
+- Love modern C++ design, optimization, algorithms.
 - Bot and Hack is awesome !!! [my funning list](https://github.com/stars/louisfghbvc/lists/fun-project)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/louisfghbvc?ext=contest)
